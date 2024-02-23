@@ -5,7 +5,7 @@ public class Main {
         int resultado = potencia(n1, n2);
         System.out.println("la potencia de " + n1 + " elevado a  " + n2 + " es igual a " + resultado);
     }
-
+//trabajo elaborado por David Guerrero Fonseca y Camilo Rojas 
     public static int potencia(int n1, int n2) {
         if (n2 == 0) {
             return 1;
@@ -18,3 +18,4 @@ public class Main {
         }
     }
 }
+
